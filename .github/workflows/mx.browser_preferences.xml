@@ -6,6 +6,7 @@
     <int name="launch_count" value="9" />
     <int name="settings_prov" value="2" />
     <string name="cldd">4a4c3ee6855343451ec29cc696ab810375f80000</string>
+    <boolean name="pref_key_news" value="false" />
     <boolean name="pref_top_level_domain_list_init" value="true" />
     <long name="launch_time" value="1751315738081" />
     <string name="pref_last_open_websites_0">{&quot;key_active_index&quot;:0,&quot;key_data&quot;:[{&quot;key_url&quot;:&quot;mx:\/\/home&quot;,&quot;key_group_id&quot;:&quot;1751315684857&quot;},{&quot;key_url&quot;:&quot;http:\/\/fb.me&quot;,&quot;key_group_id&quot;:&quot;1751315689314&quot;}]}</string>
@@ -22,6 +23,7 @@
     <boolean name="search_page_isadded" value="true" />
     <boolean name="show_news_tips" value="false" />
     <string name="pref_key_header_download_path">/data/user/0/com.mx.browser/app_data/files/Downloads/</string>
+    <boolean name="pref_key_background" value="false" />
     <int name="fas_prov" value="2" />
     <int name="pass_prov" value="2" />
     <string name="controllernoteMeta0">{&quot;1&quot;:{&quot;pid&quot;:-1,&quot;fn&quot;:&quot;&quot;,&quot;ft&quot;:0,&quot;ns&quot;:414,&quot;sum&quot;:&quot;&quot;,&quot;ct&quot;:0,&quot;mt&quot;:0,&quot;id&quot;:1,&quot;ot&quot;:0},&quot;2&quot;:{&quot;pid&quot;:-1,&quot;fn&quot;:&quot;&quot;,&quot;ft&quot;:0,&quot;ns&quot;:414,&quot;sum&quot;:&quot;&quot;,&quot;ct&quot;:0,&quot;mt&quot;:0,&quot;id&quot;:2,&quot;ot&quot;:0}}</string>
